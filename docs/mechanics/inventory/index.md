@@ -12,7 +12,7 @@ The inventory system is a crucial aspect of any RPG game as it allows players to
 
 ## High-Level Summary
 
-The inventory system in our game will be based off of the inventory system in Diablo 2. Players will have a limited number of slots in their inventory to carry their items, and they will need to manage their inventory effectively in order to carry all of the items that they need. Items will be organized into different categories, such as weapons, armor, potions, and gold. Players will be able to trade and sell items with other players in order to obtain items that they need.
+The inventory system in our game will be based off of the inventory system in Diablo 2. Players will have a limited number of slots in their inventory to carry their items, and they will need to manage their inventory effectively in order to carry all of the items that they need. Items will be organized into different categories, such as weapons, armor, potions, and gold. Players will be able to trade and sell items with other NPCs in order to obtain items that they need.
 
 ## Features
 
@@ -30,8 +30,8 @@ Items will have different levels of rarity, ranging from common to rare to legen
 
 ### Item Trading
 
-Players will be able to trade and sell items with other players in order to obtain items that they need. The trading system will be designed to prevent cheating and scamming.
+Players will be able to trade and sell items with certain NPCs in order to obtain items that they need. The trading system will be designed to encourage exploration and progression.
 
 ## Example
 
-The player opens their inventory and sees that they are running out of space. They decide to sell some of their excess potions to a vendor in order to make room for more valuable items. They then trade some of their items with another player in order to obtain a rare piece of armor that they need.
+The player opens their inventory and sees that they are running out of space. They decide to sell some of their excess potions to a vendor in order to make room for more valuable items. They then trade some of their items with the shopkeeper NPC in order to obtain a rare piece of armor that they need.
