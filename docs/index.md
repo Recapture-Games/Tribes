@@ -2,8 +2,16 @@
 
 ## Table of Contents
 + [Gameplay](./gameplay/index.md)
-  + [Classes](./gameplay/player-classes/index.md)
+  + [Game Overview](./gameplay/game-overview.md)
+  + [Win Condition](./gameplay/win-condition.md)
+  + [Playable Classes](./gameplay/playable-classes.md)
+  + [Resource Gathering](./gameplay/resource-gathering.md)
+  + [Base Building](./gameplay/base-building.md)
+  + [Combat](./gameplay/combat.md)
+  + [Defensive Traps](./gameplay/defensive-traps.md)
+  + [Witch Doctor Curses](./gameplay/witch-doctor-curses.md)
 + [Mechanics](./mechanics/index.md)
+  + [Player Controller](./mechanics/player-controller/index.md)
   + [Building](./mechanics/building/index.md)
   + [Inventory](./mechanics/inventory/index.md)
 
