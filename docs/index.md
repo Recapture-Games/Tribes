@@ -15,6 +15,7 @@
   + [Player Controller](./mechanics/player-controller/index.md)
   + [Building](./mechanics/building/index.md)
   + [Inventory](./mechanics/inventory/index.md)
+  + [Shopping](./mechanics/shopping/index.md)
 
 **Design Pillars:**
 
