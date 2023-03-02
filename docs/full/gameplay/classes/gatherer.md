@@ -1,6 +1,7 @@
 # Functional Breakdown: Gatherer
 
 ## Purpose
+
 The Gatherer class is designed to be an efficient resource gatherer, providing players with the ability to collect resources quickly and efficiently.
 
 ## Skills

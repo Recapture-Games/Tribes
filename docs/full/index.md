@@ -1,5 +1,8 @@
 # Tribes
 
+This document is designed as a FULL gameplay breakdown.
+If you would like to see MVP documentation check [here.]('./mvp/index.md')
+
 ## Elevator Pitch
 
 In our game, players find themselves stranded on a mysterious island with limited resources and must work together to survive against the elements and dangerous creatures / players. With a focus on exploration, crafting, and building, players can gather resources, construct shelter, and band together in an attempt to be the last team standing. Survival isn't easy, as players must also fend off attacks from ferocious animals, players, and contend with limited supplies. With a focus on short rounds, procedural islands, and pvp content, our game is the ultimate survival experience that will keep players engaged for hours on end.
