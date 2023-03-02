@@ -25,28 +25,28 @@ In our game, players find themselves stranded on a mysterious island with limite
     + Players must gather resources, build a base, and fend off enemies to survive
   + [Win Condition](./gameplay/win-condition.md)
     + Be the last team standing or kill the end game boss
-  + [Playable Classes](./gameplay/playable-classes.md)
+  + [Playable Classes](./gameplay/classes/index.md)
     + Hunter
     + Gatherer
     + Witch Doctor
     + Spy
-  + [Resource Gathering](./gameplay/resource-gathering.md)
+  + [Resource Gathering](./gameplay/resource-gathering/index.md)
     + Players must gather resources such as wood, stone, and ore to construct buildings and craft items
     + Resources can be obtained through gathering, hunting, and trading with NPCs
-  + [Base Building](./gameplay/base-building.md)
+  + [Base Building](./gameplay/base-building/index.md)
     + Players can construct buildings to protect themselves from enemies and store resources
     + Buildings can be upgraded and customized to fit the player's needs
-  + [Combat](./gameplay/combat.md)
+  + [Combat](./gameplay/combat/index.md)
     + Players must fight off enemies to survive
     + Enemies range from wild animals to other players
     + Players have access to weapons and spells to fight with
-  + [Defensive Traps](./gameplay/defensive-traps.md)
+  + [Defensive Traps](./gameplay/traps/index.md)
     + Players can construct traps to defend their base and incapacitate enemies
     + Traps can be hidden or applied to any interactable
-  + [Witch Doctor Curses](./gameplay/witch-doctor-curses.md)
+  + [Witch Doctor Curses](./gameplay/curses/index.md)
     + Witch doctors can curse enemies to make them easier to defeat
     + Curses have a limited duration and require mana to cast
-+ [Mechanics](./mechanics/index.md)
++ Mechanics
   + [Player Controller](./mechanics/player-controller/index.md)
     + Players control their character with WASD and mouse movement
     + Keybinds for actions such as attacking and using spells are customizable (1-9 hotkeys)
