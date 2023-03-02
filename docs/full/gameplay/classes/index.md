@@ -4,7 +4,7 @@ There are four playable classes in Island Troll Tribes, each with their own uniq
 
 ---
 
-## [Hunter]('./hunter.md')
+## [Hunter](./hunter.md)
 
 The Hunter is a ranged class that is good at dealing damage from a distance. They are effective at taking out enemy players and defending their team's base. They are weak in close combat and can be easily taken down by melee attacks.
 
@@ -16,7 +16,7 @@ The Hunter is a ranged class that is good at dealing damage from a distance. The
 
 ---
 
-## [Gatherer]('./gatherer.md')
+## [Gatherer](./gatherer.md)
 
 The Gatherer is a resource-focused class that is able to gather resources quickly and efficiently. They are effective at building up their team's base and upgrading their equipment. They are weak in direct combat and can be easily taken down by any attack.
 
@@ -28,7 +28,7 @@ The Gatherer is a resource-focused class that is able to gather resources quickl
 
 ---
 
-## [Spy]('./spy.md')
+## [Spy](./spy.md)
 
 The Spy is a stealth class that excels at reconnaissance and sabotage. They are able to move around undetected and gather intelligence on enemy teams. They are weak in direct combat and can be easily taken down if caught off guard.
 
@@ -40,7 +40,7 @@ The Spy is a stealth class that excels at reconnaissance and sabotage. They are 
 
 ---
 
-## [Witch Doctor]('./witch-doctor.md')
+## [Witch Doctor](./witch-doctor.md)
 
 The Witch Doctor is a support class that can both heal their team and curse their enemies. They are effective at keeping their team alive and disrupting the plans of their enemies. They are weak in direct combat and can be easily taken down by ranged attacks.
 

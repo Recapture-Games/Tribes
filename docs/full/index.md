@@ -1,7 +1,7 @@
 # Tribes
 
 This document is designed as a FULL gameplay breakdown.
-If you would like to see MVP documentation check [here.]('./mvp/index.md')
+If you would like to see MVP documentation check [here.](./mvp/index.md)
 
 ## Elevator Pitch
 
